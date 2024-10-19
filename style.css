@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.header{
+    margin: 0 auto;
+    width: 1440px;
+    height: 800px;
+    background-color: #F3D7B7;
+}
+
+.n1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 800px;
+    padding: 30px 0px;
+    text-transform: uppercase;
+}
+
+.n1 ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.s1{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 1300px;
+    height: 500px;
+    gap: 40px;
+}
+
+.btn{
+    background-color: #0A775F;
+    border: 1px solid #0A775F;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    width: 200px;
+    height: 51px;
+    border-radius: 100px;
+    text-transform: uppercase;
+}
+
+.btn:hover{
+    background-color: #095343;
+    border: 1px solid #095343;
+    color: white;
+}
+
+.logo{
+    position: relative;
+    left: 160px;
+    top: 180px;
+}
+
+.f{
+    width: 1440px;
+    height: 160px;
+    background-color: #F3D7B7;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.n2{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    gap: 250px;
+    padding: 0 300px;
+    text-transform: uppercase;
+}
+
+.d1 h1{
+    font-size:  64px;
+    font-weight: 700;
+}
+
+.d1 p{
+    width: 460px;
+}
+
+.m{
+    width: 1440px;
+    background-color: rgb(250, 246, 238);
+    margin: 0 auto;
+}
+
+.n2 ul{
+    display: flex;
+    gap: 50px;
+}
+
+.s2{
+    margin: 0 auto;
+}
+
+.s2 h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.s3{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    gap: 40px; 
+}
+
+.s4{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    gap: 40px;
+}
+
+.s5{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    gap: 40px;
+}
+
+.s6{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    gap: 40px;
+}
+
+.img{
+    width: 451.25px;
+    height: 375px;
+}
+
+.d2 h1{
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.d2 p{
+    width: 300px;
+}
+
+.d3 h1{
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.d3 p{
+    width: 300px;
+}
+
+.d4 h1{
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.d4 p{
+    width: 290px;
+}
+
+.d5 h1{
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.d5 p{
+    width: 300px;
+}
+
+.d2{
+    margin: 0 auto;
+}
+
+.d3{
+    margin: 0 auto;
+}
+
+.d4{
+    margin: 0 auto;
+}
+
+.d5{
+    margin: 0 auto;
+}
+
+.i1{
+    margin: 0 auto;
+    position: relative;
+    top: -110px;
+    left: -660px;
+}
